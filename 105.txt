@@ -59,9 +59,9 @@ http://cdn.163189.xyz/163189/rthk31
 http://cdn.163189.xyz/163189/rthk32
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ext886-prog/tvlogo/refs/heads/main/viutv.png" tvg-name="VIU TV" group-title="港澳台国外",VIU TV
 https://cdn9.163189.xyz/smt3.1.1.php?id=viu1_twn
-#EXTINF:-1 tvg-logo="https://drive.google.com/file/d/1ONdJH6BAiCYARgF5v0js3YjymZFyRAnY/preview" tvg-name="Astro AOD" group-title="港澳台国外",Astro AOD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ext886-prog/tvlogo/refs/heads/main/astroaod.png" tvg-name="Astro AOD" group-title="港澳台国外",Astro AOD
 http://o11.163189.xyz/stream/live/aod/
-#EXTINF:-1 tvg-logo="https://drive.google.com/file/d/1hoF_xRyeGjgPZf5_M3hHa9GXZ7yt9squ/preview" tvg-name="Astro AEC" group-title="港澳台国外",Astro AEC
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ext886-prog/tvlogo/refs/heads/main/astroace.png" tvg-name="Astro AEC" group-title="港澳台国外",Astro AEC
 http://o11.163189.xyz/stream/live/aec/
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" tvg-name="凤凰中文" group-title="港澳台国外",凤凰中文
 https://cdn6.163189.xyz/163189/fhzw
