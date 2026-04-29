@@ -69,6 +69,8 @@ http://o11.163189.xyz/stream/live/aec/
 https://cdn6.163189.xyz/163189/fhzw
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" tvg-name="凤凰资讯" group-title="港澳台国外",凤凰资讯
 https://cdn6.163189.xyz/163189/fhzx
+#EXTINF:-1 tvg-logo="https://od.lk/s/NDlfMzQ3NjYzOTVf/utv.jpg" tvg-name="中国环球电视网" group-title="港澳台国际",中国环球电视网
+http://utv1.hqtvzb.com:9999/hls/world.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" tvg-name="CCTV1" group-title="央视",CCTV1
 http://192.168.154.1:9999/rtp/239.77.0.129:5146
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" tvg-name="CCTV2" group-title="央视",CCTV2
