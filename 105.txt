@@ -67,22 +67,6 @@ http://o11.163189.xyz/stream/live/aec/
 https://cdn6.163189.xyz/163189/fhzw
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" tvg-name="凤凰资讯" group-title="港澳台国外",凤凰资讯
 https://cdn6.163189.xyz/163189/fhzx
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ext886-prog/tvlogo/refs/heads/main/zs.png" tvg-name="中視" group-title="港澳台国外",中視
-http://74.91.26.218:82/live/ctv.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ext886-prog/tvlogo/refs/heads/main/zsnews.png" tvg-name="中視新聞" group-title="港澳台国外",中視新聞
-http://74.91.26.218:82/live/ctvnews.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ext886-prog/tvlogo/refs/heads/main/ts.png" tvg-name="台視" group-title="港澳台国外",台視
-http://74.91.26.218:82/live/ttv.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ext886-prog/tvlogo/refs/heads/main/tsnews.png" tvg-name="台視新聞" group-title="港澳台国外",台視新聞
-http://74.91.26.218:82/live/ttvnews.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ext886-prog/tvlogo/refs/heads/main/hs.png" tvg-name="華視" group-title="港澳台国外",華視
-http://74.91.26.218:82/live/cts.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ext886-prog/tvlogo/refs/heads/main/hsnews.png" tvg-name="華視新聞資訊" group-title="港澳台国外",華視新聞資訊
-http://74.91.26.218:82/live/ctsnews.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ext886-prog/tvlogo/refs/heads/main/ms.png" tvg-name="民視" group-title="港澳台国外",民視
-http://74.91.26.218:82/live/ftv.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ext886-prog/tvlogo/refs/heads/main/msnews.png" tvg-name="民視新聞" group-title="港澳台国外",民視新聞
-http://74.91.26.218:82/live/ftvnews.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" tvg-name="CCTV1" group-title="央视",CCTV1
 http://192.168.105.1:9999/rtp/239.10.0.48:1025
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" tvg-name="CCTV2" group-title="央视",CCTV2
