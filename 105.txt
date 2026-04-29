@@ -1,15 +1,15 @@
 #EXTM3U name="TiviMate"
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" tvg-name="广东卫视" group-title="广东",广东卫视
 http://192.168.105.1:9999/rtp/239.10.0.45:1025
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" tvg-name="珠江频道" group-title="广东",珠江频道
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" tvg-name="广东珠江" group-title="广东",广东珠江
 http://192.168.105.1:9999/rtp/239.10.0.63:1025
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV6.png" tvg-name="广东新闻" group-title="广东",广东新闻
 http://192.168.105.1:9999/rtp/239.10.0.199:1025
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV4.png" tvg-name="广东公共" group-title="广东",广东公共
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV4.png" tvg-name="广东民生" group-title="广东",广东民生
 http://192.168.105.1:9999/rtp/239.11.0.80:1025
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV3.png" tvg-name="广东体育" group-title="广东",广东体育
 http://192.168.105.1:9999/rtp/239.10.0.47:1025
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTVECO.png" tvg-name="广东经济" group-title="广东",广东经济
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTVECO.png" tvg-name="广东经济科教" group-title="广东",广东经济科教
 http://192.168.105.1:9999/rtp/239.10.0.46:1025
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ext886-prog/tvlogo/refs/heads/main/dwqws.png" tvg-name="大湾区卫视" group-title="广东",大湾区卫视
 http://192.168.105.1:9999/rtp/239.11.0.78:1025
@@ -31,41 +31,39 @@ http://192.168.105.1:9999/rtp/239.11.0.140:1025
 http://192.168.105.1:9999/rtp/239.11.0.141:1025
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ext886-prog/tvlogo/refs/heads/main/gzlogo.png" tvg-name="广州竞赛" group-title="广东",广州竞赛
 http://192.168.105.1:9999/rtp/239.11.0.142:1025
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ext886-prog/tvlogo/refs/heads/main/fslogo.png" tvg-name="佛山综合" group-title="广东",佛山综合
-http://192.168.105.1:9999/rtp/239.11.0.118:1025
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ext886-prog/tvlogo/refs/heads/main/fslogo.png" tvg-name="佛山公共" group-title="广东",佛山公共
 http://192.168.105.1:9999/rtp/239.11.0.114:1025
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ext886-prog/tvlogo/refs/heads/main/fslogo.png" tvg-name="佛山顺德" group-title="广东",佛山顺德
 http://192.168.105.1:9999/rtp/239.11.0.116:1025
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ext886-prog/tvlogo/refs/heads/main/fslogo.png" tvg-name="佛山南海" group-title="广东",佛山南海
 http://192.168.105.1:9999/rtp/239.11.0.115:1025
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ext886-prog/tvlogo/refs/heads/main/nownews.png" tvg-name="Now新闻台" group-title="港澳及国外",Now新闻台
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ext886-prog/tvlogo/refs/heads/main/nownews.png" tvg-name="Now新闻台" group-title="港澳台国际",Now新闻台
 http://cdn.163189.xyz/163189/now
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ext886-prog/tvlogo/refs/heads/main/hoy78.png" tvg-name="HOY78" group-title="港澳及国外",HOY78
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ext886-prog/tvlogo/refs/heads/main/hoy78.png" tvg-name="HOY78" group-title="港澳台国际",HOY78
 http://cdn.163189.xyz/163189/hoy78
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ext886-prog/tvlogo/refs/heads/main/tvbnews.png" tvg-name="无线新闻台" group-title="港澳及国外",无线新闻台
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ext886-prog/tvlogo/refs/heads/main/tvbnews.png" tvg-name="无线新闻台" group-title="港澳台国际",无线新闻台
 https://cdn6.163189.xyz/163189/wxxw
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ext886-prog/tvlogo/refs/heads/main/tvb.png" tvg-name="翡翠台" group-title="港澳及国外",翡翠台
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ext886-prog/tvlogo/refs/heads/main/tvb.png" tvg-name="翡翠台" group-title="港澳台国际",翡翠台
 https://mytv.cdn.loc.cc/o12.php?id=fct
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ext886-prog/tvlogo/refs/heads/main/tvbplus.png" tvg-name="TVB Plus" group-title="港澳台国外",TVB Plus
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ext886-prog/tvlogo/refs/heads/main/tvbplus.png" tvg-name="TVB Plus" group-title="港澳台国际",TVB Plus
 https://o11.163189.xyz/stream/tvb/tvbp/
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ext886-prog/tvlogo/refs/heads/main/tvbxh.png" tvg-name="TVB星河" group-title="港澳台国外",TVB星河
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ext886-prog/tvlogo/refs/heads/main/tvbxh.png" tvg-name="TVB星河" group-title="港澳台国际",TVB星河
 https://cdn6.163189.xyz/163189/tvbxh
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ext886-prog/tvlogo/refs/heads/main/tvbasianaction.png" tvg-name="TVB功夫台" group-title="港澳台国外",TVB功夫台
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ext886-prog/tvlogo/refs/heads/main/tvbasianaction.png" tvg-name="TVB功夫台" group-title="港澳台国际",TVB功夫台
 https://cdn6.163189.xyz/163189/yzwx
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ext886-prog/tvlogo/refs/heads/main/rhk31.png" tvg-name="RTHK31" group-title="港澳台国外",RTHK31
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ext886-prog/tvlogo/refs/heads/main/rhk31.png" tvg-name="RTHK31" group-title="港澳台国际",RTHK31
 http://cdn.163189.xyz/163189/rthk31
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ext886-prog/tvlogo/refs/heads/main/rhk32.png" tvg-name="RTHK32" group-title="港澳台国外",RTHK32
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ext886-prog/tvlogo/refs/heads/main/rhk32.png" tvg-name="RTHK32" group-title="港澳台国际",RTHK32
 http://cdn.163189.xyz/163189/rthk32
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ext886-prog/tvlogo/refs/heads/main/viutv.png" tvg-name="VIUTV" group-title="港澳台国外",VIUTV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ext886-prog/tvlogo/refs/heads/main/viutv.png" tvg-name="VIUTV" group-title="港澳台国际",VIUTV
 https://cdn9.163189.xyz/smt3.1.1.php?id=viu1_twn
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ext886-prog/tvlogo/refs/heads/main/astroaod.png" tvg-name="AstroAOD" group-title="港澳台国外",AstroAOD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ext886-prog/tvlogo/refs/heads/main/astroaod.png" tvg-name="AstroAOD" group-title="港澳台国际",AstroAOD
 http://o11.163189.xyz/stream/live/aod/
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ext886-prog/tvlogo/refs/heads/main/astroace.png" tvg-name="AstroAEC" group-title="港澳台国外",AstroAEC
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ext886-prog/tvlogo/refs/heads/main/astroaec.png" tvg-name="AstroAEC" group-title="港澳台国际",AstroAEC
 http://o11.163189.xyz/stream/live/aec/
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" tvg-name="凤凰中文" group-title="港澳台国外",凤凰中文
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" tvg-name="凤凰中文" group-title="港澳台国际",凤凰中文
 https://cdn6.163189.xyz/163189/fhzw
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" tvg-name="凤凰资讯" group-title="港澳台国外",凤凰资讯
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" tvg-name="凤凰资讯" group-title="港澳台国际",凤凰资讯
 https://cdn6.163189.xyz/163189/fhzx
 #EXTINF:-1 tvg-logo="https://od.lk/s/NDlfMzQ3NjYzOTVf/utv.jpg" tvg-name="中国环球电视网" group-title="港澳台国际",中国环球电视网
 http://utv1.hqtvzb.com:9999/hls/world.m3u8
@@ -185,7 +183,5 @@ http://192.168.105.1:9999/rtp/239.11.0.130:1025
 http://192.168.105.1:9999/rtp/239.11.0.131:1025
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" tvg-name="金鹰纪实" group-title="数字付费",金鹰纪实
 http://192.168.105.1:9999/rtp/239.10.0.206:1025
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" tvg-name="纪实人文" group-title="数字付费",纪实人文
-http://192.168.105.1:9999/rtp/239.10.0.78:1025
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSJL.png" tvg-name="求索记录" group-title="数字付费",求索记录
 http://192.168.105.1:9999/rtp/239.11.0.128:1025
