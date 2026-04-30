@@ -25,18 +25,8 @@ http://192.168.154.1:9999/rtp/239.77.1.237:5146
 http://192.168.154.1:9999/rtp/239.253.43.71:5146
 #EXTINF:-1 tvg-logo="https://od.lk/s/NDlfMzQ3Njg0NDZf/GZxinwen.png" tvg-name="广州新闻" group-title="广东",广州新闻
 http://192.168.154.1:9999/rtp/239.253.43.72:5146
-#EXTINF:-1 tvg-logo="https://od.lk/s/NDlfMzQ3Njg0NDdf/GZyingshi.png" tvg-name="广州影视" group-title="广东",广州影视
-http://192.168.154.1:9999/rtp/239.253.43.73:5146
-#EXTINF:-1 tvg-logo="https://od.lk/s/NDlfMzQ3Njg0NTBf/GZfazhi.png" tvg-name="广州法治" group-title="广东",广州法治
-http://192.168.154.1:9999/rtp/239.253.43.74:5146
-#EXTINF:-1 tvg-logo="https://od.lk/s/NDlfMzQ3Njg0NDhf/GZjingsai.png" tvg-name="广州竞赛" group-title="广东",广州竞赛
-http://192.168.154.1:9999/rtp/239.253.43.75:5146
 #EXTINF:-1 tvg-logo="https://od.lk/s/NDlfMzY3NTc5MDlf/FSZH.jpg" tvg-name="佛山综合" group-title="广东",佛山综合
 http://192.168.154.1:9999/rtp/239.253.43.57:5146
-#EXTINF:-1 tvg-logo="https://od.lk/s/NDlfMzY3NTc5MDdf/FSGG.jpg" tvg-name="佛山公共" group-title="广东",佛山公共
-http://192.168.154.1:9999/rtp/239.253.43.53:5146
-#EXTINF:-1 tvg-logo="https://od.lk/s/NDlfMzY3NTc5MjZf/FSYS.jpg" tvg-name="佛山影视" group-title="广东",佛山影视
-http://192.168.154.1:9999/rtp/239.253.43.56:5146
 #EXTINF:-1 tvg-logo="https://od.lk/s/NDlfMzY3NTc5MDhf/FSNH.jpg" tvg-name="佛山南海" group-title="广东",佛山南海
 http://192.168.154.1:9999/rtp/239.253.43.54:5146
 #EXTINF:-1 tvg-logo="https://od.lk/s/NDlfMzY3NTc5MTBf/FSSD.jpg" tvg-name="佛山顺德" group-title="广东",佛山顺德
