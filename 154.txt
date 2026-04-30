@@ -35,7 +35,7 @@ http://192.168.154.1:9999/rtp/239.253.43.55:5146
 https://cdn6.163189.xyz/163189/fhzx
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" tvg-name="凤凰卫视中文台" group-title="港澳台国际",凤凰卫视中文台
 https://cdn6.163189.xyz/163189/fhzw
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" tvg-name="凤凰卫视香港台" group-title="港澳台国际",凤凰卫视香港台
+#EXTINF:-1 tvg-logo="http://http://exml.51zmt.top:11111/tb1/gt/fenghuangxianggang.png" tvg-name="凤凰卫视香港台" group-title="港澳台国际",凤凰卫视香港台
 https://cdn6.163189.xyz/163189/fhhk
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ext886-prog/tvlogo/refs/heads/main/nownews.png" tvg-name="Now新闻台" group-title="港澳台国际",Now新闻台
 http://cdn.163189.xyz/163189/now
