@@ -64,7 +64,7 @@ http://cdn.163189.xyz/163189/rthk31
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ext886-prog/tvlogo/refs/heads/main/rhk32.png" tvg-name="RTHK32" group-title="港澳台国际",RTHK32
 http://cdn.163189.xyz/163189/rthk32
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ext886-prog/tvlogo/refs/heads/main/viutv.png" tvg-name="VIUTV" group-title="港澳台国际",VIUTV
-https://cdn9.163189.xyz/smt3.1.1.php?id=viu1_twn
+https://cdn.163189.xyz/163189/viu
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ext886-prog/tvlogo/refs/heads/main/astroaod.png" tvg-name="Astro AOD" group-title="港澳台国际",Astro AOD
 http://o11.163189.xyz/stream/live/aod/
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ext886-prog/tvlogo/refs/heads/main/astroace.png" tvg-name="Astro AEC" group-title="港澳台国际",Astro AEC
