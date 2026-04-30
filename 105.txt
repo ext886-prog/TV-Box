@@ -25,14 +25,6 @@ http://192.168.105.1:9999/rtp/239.10.0.64:1025
 http://192.168.105.1:9999/rtp/239.11.0.138:1025
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ext886-prog/tvlogo/refs/heads/main/gzlogo.png" tvg-name="广州新闻" group-title="广东",广州新闻
 http://192.168.105.1:9999/rtp/239.11.0.139:1025
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ext886-prog/tvlogo/refs/heads/main/gzlogo.png" tvg-name="广州影视" group-title="广东",广州影视
-http://192.168.105.1:9999/rtp/239.11.0.140:1025
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ext886-prog/tvlogo/refs/heads/main/gzlogo.png" tvg-name="广州法治" group-title="广东",广州法治
-http://192.168.105.1:9999/rtp/239.11.0.141:1025
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ext886-prog/tvlogo/refs/heads/main/gzlogo.png" tvg-name="广州竞赛" group-title="广东",广州竞赛
-http://192.168.105.1:9999/rtp/239.11.0.142:1025
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ext886-prog/tvlogo/refs/heads/main/fslogo.png" tvg-name="佛山公共" group-title="广东",佛山公共
-http://192.168.105.1:9999/rtp/239.11.0.114:1025
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ext886-prog/tvlogo/refs/heads/main/fslogo.png" tvg-name="佛山顺德" group-title="广东",佛山顺德
 http://192.168.105.1:9999/rtp/239.11.0.116:1025
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ext886-prog/tvlogo/refs/heads/main/fslogo.png" tvg-name="佛山南海" group-title="广东",佛山南海
@@ -51,15 +43,19 @@ https://o11.163189.xyz/stream/tvb/tvbp/
 https://cdn6.163189.xyz/163189/tvbxh
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ext886-prog/tvlogo/refs/heads/main/tvbasianaction.png" tvg-name="TVB功夫台" group-title="港澳台国际",TVB功夫台
 https://cdn6.163189.xyz/163189/yzwx
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ext886-prog/tvlogo/refs/heads/main/tvbqxjd.png" tvg-name="千禧经典台" group-title="港澳台国际",千禧经典台
+http://o11.163189.xyz/stream/live/tvbc/
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ext886-prog/tvlogo/refs/heads/main/rhk31.png" tvg-name="RTHK31" group-title="港澳台国际",RTHK31
 http://cdn.163189.xyz/163189/rthk31
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ext886-prog/tvlogo/refs/heads/main/rhk32.png" tvg-name="RTHK32" group-title="港澳台国际",RTHK32
 http://cdn.163189.xyz/163189/rthk32
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ext886-prog/tvlogo/refs/heads/main/viutv.png" tvg-name="VIUTV" group-title="港澳台国际",VIUTV
-https://cdn9.163189.xyz/smt3.1.1.php?id=viu1_twn
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ext886-prog/tvlogo/refs/heads/main/astroaod.png" tvg-name="AstroAOD" group-title="港澳台国际",AstroAOD
+https://cdn.163189.xyz/163189/viu
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ext886-prog/tvlogo/refs/heads/main/tvb.png" tvg-name="TVB Jade" group-title="港澳台国际",TVB Jade
+http://o11.163189.xyz/stream/live/hlt/
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ext886-prog/tvlogo/refs/heads/main/astroaod.png" tvg-name="Astro AOD" group-title="港澳台国际",Astro AOD
 http://o11.163189.xyz/stream/live/aod/
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ext886-prog/tvlogo/refs/heads/main/astroaec.png" tvg-name="AstroAEC" group-title="港澳台国际",AstroAEC
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ext886-prog/tvlogo/refs/heads/main/astroace.png" tvg-name="Astro AEC" group-title="港澳台国际",Astro AEC
 http://o11.163189.xyz/stream/live/aec/
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" tvg-name="凤凰中文" group-title="港澳台国际",凤凰中文
 https://cdn6.163189.xyz/163189/fhzw
@@ -171,14 +167,10 @@ http://192.168.105.1:9999/rtp/239.11.0.57:1025
 http://192.168.105.1:9999/rtp/239.11.0.62:1025
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVtaiqiu.png" tvg-name="央视台球" group-title="央视网台",央视台球
 http://192.168.105.1:9999/rtp/239.11.0.60:1025
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" tvg-name="CHC高清电影" group-title="央视网台",CHC高清电影
-http://192.168.105.1:9999/rtp/239.11.0.129:1025
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" tvg-name="金鹰卡通" group-title="数字付费",金鹰卡通
 http://192.168.105.1:9999/rtp/239.11.0.125:1025
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE33.jpg" tvg-name="早期教育" group-title="数字付费",早期教育
 http://192.168.105.1:9999/rtp/239.11.0.100:1025
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOCUMENTARY-CHANNEL.jpg" tvg-name="茶频道" group-title="数字付费",茶频道
-http://192.168.105.1:9999/rtp/239.11.0.130:1025
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" tvg-name="快乐垂钓" group-title="数字付费",快乐垂钓
 http://192.168.105.1:9999/rtp/239.11.0.131:1025
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" tvg-name="金鹰纪实" group-title="数字付费",金鹰纪实
