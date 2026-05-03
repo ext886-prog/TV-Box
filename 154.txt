@@ -1,8 +1,8 @@
 #EXTM3U name="TiviMate"
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" tvg-name="广东卫视" group-title="广东",广东卫视
-http://192.168.154.1:9999/rtp/239.77.0.166:5146
+http://192.168.154.1:9999/rtp/239.77.1.19:5146
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" tvg-name="广东珠江" group-title="广东",广东珠江
-http://192.168.154.1:9999/rtp/239.77.0.114:5146
+http://192.168.154.1:9999/rtp/239.77.0.1:5146
 #EXTINF:-1 tvg-logo="https://od.lk/s/NDlfMjc4ODA5MDVf/TVS-2.png" tvg-name="大湾区卫视" group-title="广东",大湾区卫视
 http://192.168.154.1:9999/rtp/239.77.0.215:5146
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV6.png" tvg-name="广东新闻" group-title="广东",广东新闻
@@ -10,13 +10,13 @@ http://192.168.154.1:9999/rtp/239.77.0.173:5146
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV4.png" tvg-name="广东民生" group-title="广东",广东民生
 http://192.168.154.1:9999/rtp/239.77.0.225:5146
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV3.png" tvg-name="广东体育" group-title="广东",广东体育
-http://192.168.154.1:9999/rtp/239.77.0.168:5146
+http://192.168.154.1:9999/rtp/239.77.0.112:5146
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTVECO.png" tvg-name="广东经济科教" group-title="广东",广东经济科教
-http://192.168.154.1:9999/rtp/239.77.0.167:5146
+http://192.168.154.1:9999/rtp/239.77.0.85:5146
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTVMOV.png" tvg-name="广东影视" group-title="广东",广东影视
 http://192.168.154.1:9999/rtp/239.77.0.217:5146
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTVENT.png" tvg-name="广东综艺" group-title="广东",广东综艺
-http://192.168.154.1:9999/rtp/239.77.0.244:5146
+http://192.168.154.1:9999/rtp/239.77.0.245:5146
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTVSHAO.png" tvg-name="广东少儿" group-title="广东",广东少儿
 http://192.168.154.1:9999/rtp/239.77.0.250:5146
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png" tvg-name="嘉佳卡通" group-title="广东",嘉佳卡通
