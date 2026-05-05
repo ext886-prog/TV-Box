@@ -3,6 +3,8 @@
 http://192.168.105.1:9999/rtp/239.10.0.45:1025
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" tvg-name="广东珠江" group-title="广东",广东珠江
 http://192.168.105.1:9999/rtp/239.10.0.63:1025
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ext886-prog/tvlogo/refs/heads/main/dwqws.png" tvg-name="大湾区卫视" group-title="广东",大湾区卫视
+http://192.168.105.1:9999/rtp/239.11.0.78:1025
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV6.png" tvg-name="广东新闻" group-title="广东",广东新闻
 http://192.168.105.1:9999/rtp/239.10.0.199:1025
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV4.png" tvg-name="广东民生" group-title="广东",广东民生
@@ -11,24 +13,30 @@ http://192.168.105.1:9999/rtp/239.11.0.80:1025
 http://192.168.105.1:9999/rtp/239.10.0.47:1025
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTVECO.png" tvg-name="广东经济科教" group-title="广东",广东经济科教
 http://192.168.105.1:9999/rtp/239.10.0.46:1025
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ext886-prog/tvlogo/refs/heads/main/dwqws.png" tvg-name="大湾区卫视" group-title="广东",大湾区卫视
-http://192.168.105.1:9999/rtp/239.11.0.78:1025
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTVENT.png" tvg-name="广东综艺" group-title="广东",广东综艺
+http://192.168.105.1:9999/rtp/239.10.0.64:1025
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTVMOV.png" tvg-name="广东影视" group-title="广东",广东影视
 http://192.168.105.1:9999/rtp/239.11.0.79:1025
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTVSHAO.png" tvg-name="广东少儿" group-title="广东",广东少儿
 http://192.168.105.1:9999/rtp/239.11.0.81:1025
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png" tvg-name="嘉佳卡通" group-title="广东",嘉佳卡通
 http://192.168.105.1:9999/rtp/239.10.0.200:1025
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTVENT.png" tvg-name="广东综艺" group-title="广东",广东综艺
-http://192.168.105.1:9999/rtp/239.10.0.64:1025
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ext886-prog/tvlogo/refs/heads/main/gzlogo.png" tvg-name="广州综合" group-title="广东",广州综合
 http://192.168.105.1:9999/rtp/239.11.0.138:1025
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ext886-prog/tvlogo/refs/heads/main/gzlogo.png" tvg-name="广州新闻" group-title="广东",广州新闻
 http://192.168.105.1:9999/rtp/239.11.0.139:1025
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ext886-prog/tvlogo/refs/heads/main/fslogo.png" tvg-name="佛山顺德" group-title="广东",佛山顺德
-http://192.168.105.1:9999/rtp/239.11.0.116:1025
+#EXTINF:-1 tvg-logo="https://od.lk/s/NDlfMzY3NTc5MDlf/FSZH.jpg" tvg-name="佛山综合" group-title="广东",佛山综合
+http://192.168.105.1:9999/rtp/239.11.0.118:1025
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ext886-prog/tvlogo/refs/heads/main/fslogo.png" tvg-name="佛山南海" group-title="广东",佛山南海
 http://192.168.105.1:9999/rtp/239.11.0.115:1025
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ext886-prog/tvlogo/refs/heads/main/fslogo.png" tvg-name="佛山顺德" group-title="广东",佛山顺德
+http://192.168.105.1:9999/rtp/239.11.0.116:1025
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" tvg-name="凤凰卫视资讯台" group-title="港澳台国际",凤凰卫视资讯台
+https://cdn6.163189.xyz/163189/fhzx
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" tvg-name="凤凰卫视中文台" group-title="港澳台国际",凤凰卫视中文台
+https://cdn6.163189.xyz/163189/fhzw
+#EXTINF:-1 tvg-logo="http://exml.51zmt.top:11111/tb1/gt/fenghuangxianggang.png" tvg-name="凤凰卫视香港台" group-title="港澳台国际",凤凰卫视香港台
+https://cdn6.163189.xyz/163189/fhhk
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ext886-prog/tvlogo/refs/heads/main/nownews.png" tvg-name="Now新闻台" group-title="港澳台国际",Now新闻台
 http://cdn.163189.xyz/163189/now
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ext886-prog/tvlogo/refs/heads/main/hoy78.png" tvg-name="HOY78" group-title="港澳台国际",HOY78
@@ -50,17 +58,13 @@ http://cdn.163189.xyz/163189/rthk31
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ext886-prog/tvlogo/refs/heads/main/rhk32.png" tvg-name="RTHK32" group-title="港澳台国际",RTHK32
 http://cdn.163189.xyz/163189/rthk32
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ext886-prog/tvlogo/refs/heads/main/viutv.png" tvg-name="VIUTV" group-title="港澳台国际",VIUTV
-https://cdn.163189.xyz/163189/viu
+https://cdn10.163189.xyz/stream/163189/viu/
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ext886-prog/tvlogo/refs/heads/main/tvb.png" tvg-name="TVB Jade" group-title="港澳台国际",TVB Jade
 http://o11.163189.xyz/stream/live/hlt/
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ext886-prog/tvlogo/refs/heads/main/astroaod.png" tvg-name="Astro AOD" group-title="港澳台国际",Astro AOD
 http://o11.163189.xyz/stream/live/aod/
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ext886-prog/tvlogo/refs/heads/main/astroace.png" tvg-name="Astro AEC" group-title="港澳台国际",Astro AEC
 http://o11.163189.xyz/stream/live/aec/
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" tvg-name="凤凰中文" group-title="港澳台国际",凤凰中文
-https://cdn6.163189.xyz/163189/fhzw
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" tvg-name="凤凰资讯" group-title="港澳台国际",凤凰资讯
-https://cdn6.163189.xyz/163189/fhzx
 #EXTINF:-1 tvg-logo="https://od.lk/s/NDlfMzQ3NjYzOTVf/utv.jpg" tvg-name="中国环球电视网" group-title="港澳台国际",中国环球电视网
 http://utv1.hqtvzb.com:9999/hls/world.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" tvg-name="CCTV1" group-title="央视",CCTV1
