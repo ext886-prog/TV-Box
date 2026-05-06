@@ -45,8 +45,6 @@ http://cdn.163189.xyz/163189/hoy78
 https://cdn6.163189.xyz/163189/wxxw
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB1.png" tvg-name="翡翠台" group-title="港澳台国际",翡翠台
 https://mytv.cdn.loc.cc/o12.php?id=fct
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB14.png" tvg-name="MytvSuper" group-title="港澳台国际",MytvSuper
-http://iptv.4666888.xyz/iptv2A.php?id=24
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ext886-prog/tvlogo/refs/heads/main/tvbplus.png" tvg-name="TVB Plus" group-title="港澳台国际",TVB Plus
 https://o11.163189.xyz/stream/tvb/tvbp/
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB6.png" tvg-name="TVB星河" group-title="港澳台国际",TVB星河
