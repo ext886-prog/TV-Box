@@ -105,6 +105,28 @@ http://192.168.105.1:9999/rtp/239.11.0.25:1025
 http://192.168.105.1:9999/rtp/239.11.0.126:1025
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV17.png" tvg-name="CCTV17" group-title="央视",CCTV17
 http://192.168.105.1:9999/rtp/239.10.0.244:1025
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVfyzq.png" tvg-name="风云足球" group-title="央视网台",风云足球
+http://192.168.105.1:9999/rtp/239.11.0.59:1025
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVgefwq.png" tvg-name="高尔夫网球" group-title="央视网台",高尔夫网球
+http://192.168.105.1:9999/rtp/239.11.0.61:1025
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVyswhjp.png" tvg-name="央视文化精品" group-title="央视网台",央视文化精品
+http://192.168.105.1:9999/rtp/239.11.0.66:1025
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVfyyy.png" tvg-name="风云音乐" group-title="央视网台",风云音乐
+http://192.168.105.1:9999/rtp/239.11.0.68:1025
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVdyjc.png" tvg-name="第一剧场" group-title="央视网台",第一剧场
+http://192.168.105.1:9999/rtp/239.11.0.67:1025
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVhjjc.png" tvg-name="怀旧剧场" group-title="央视网台",怀旧剧场
+http://192.168.105.1:9999/rtp/239.11.0.64:1025
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVfyjc.png" tvg-name="风云剧场" group-title="央视网台",风云剧场
+http://192.168.105.1:9999/rtp/239.11.0.65:1025
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVsjdl.png" tvg-name="世界地理" group-title="央视网台",世界地理
+http://192.168.105.1:9999/rtp/239.11.0.63:1025
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVbqkj.png" tvg-name="兵器科技" group-title="央视网台",兵器科技
+http://192.168.105.1:9999/rtp/239.11.0.57:1025
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVnxss.png" tvg-name="女性时尚" group-title="央视网台",女性时尚
+http://192.168.105.1:9999/rtp/239.11.0.62:1025
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVystq.png" tvg-name="央视台球" group-title="央视网台",央视台球
+http://192.168.105.1:9999/rtp/239.11.0.60:1025
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Hunan.png" tvg-name="湖南卫视" group-title="卫视",湖南卫视
 http://192.168.105.1:9999/rtp/239.10.0.49:1025
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Zhejiang.png" tvg-name="浙江卫视" group-title="卫视",浙江卫视
@@ -151,35 +173,13 @@ http://192.168.105.1:9999/rtp/239.10.0.81:1025
 http://192.168.105.1:9999/rtp/239.11.0.172:1025
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Gansu.png" tvg-name="甘肃卫视" group-title="卫视",甘肃卫视
 http://192.168.105.1:9999/rtp/239.11.0.175:1025
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVfyzq.png" tvg-name="风云足球" group-title="央视网台",风云足球
-http://192.168.105.1:9999/rtp/239.11.0.59:1025
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVgefwq.png" tvg-name="高尔夫网球" group-title="央视网台",高尔夫网球
-http://192.168.105.1:9999/rtp/239.11.0.61:1025
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVyswhjp.png" tvg-name="央视文化精品" group-title="央视网台",央视文化精品
-http://192.168.105.1:9999/rtp/239.11.0.66:1025
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVfyyy.png" tvg-name="风云音乐" group-title="央视网台",风云音乐
-http://192.168.105.1:9999/rtp/239.11.0.68:1025
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVdyjc.png" tvg-name="第一剧场" group-title="央视网台",第一剧场
-http://192.168.105.1:9999/rtp/239.11.0.67:1025
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVhjjc.png" tvg-name="怀旧剧场" group-title="央视网台",怀旧剧场
-http://192.168.105.1:9999/rtp/239.11.0.64:1025
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVfyjc.png" tvg-name="风云剧场" group-title="央视网台",风云剧场
-http://192.168.105.1:9999/rtp/239.11.0.65:1025
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVsjdl.png" tvg-name="世界地理" group-title="央视网台",世界地理
-http://192.168.105.1:9999/rtp/239.11.0.63:1025
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVbqkj.png" tvg-name="兵器科技" group-title="央视网台",兵器科技
-http://192.168.105.1:9999/rtp/239.11.0.57:1025
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVnxss.png" tvg-name="女性时尚" group-title="央视网台",女性时尚
-http://192.168.105.1:9999/rtp/239.11.0.62:1025
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVystq.png" tvg-name="央视台球" group-title="央视网台",央视台球
-http://192.168.105.1:9999/rtp/239.11.0.60:1025
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/jykt.png" tvg-name="金鹰卡通" group-title="数字付费",金鹰卡通
 http://192.168.105.1:9999/rtp/239.11.0.125:1025
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/zqjy.png" tvg-name="早期教育" group-title="数字付费",早期教育
-http://192.168.105.1:9999/rtp/239.11.0.100:1025
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/klcd.png" tvg-name="快乐垂钓" group-title="数字付费",快乐垂钓
-http://192.168.105.1:9999/rtp/239.11.0.131:1025
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/jyjs.png" tvg-name="金鹰纪实" group-title="数字付费",金鹰纪实
 http://192.168.105.1:9999/rtp/239.10.0.206:1025
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/klcd.png" tvg-name="快乐垂钓" group-title="数字付费",快乐垂钓
+http://192.168.105.1:9999/rtp/239.11.0.131:1025
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/zqjy.png" tvg-name="早期教育" group-title="数字付费",早期教育
+http://192.168.105.1:9999/rtp/239.11.0.100:1025
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Qiusuo1.png" tvg-name="求索记录" group-title="数字付费",求索记录
 http://192.168.105.1:9999/rtp/239.11.0.128:1025
