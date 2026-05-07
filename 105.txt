@@ -43,13 +43,13 @@ http://cdn.163189.xyz/163189/now
 http://cdn.163189.xyz/163189/hoy78
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB4.png" tvg-name="无线新闻台" group-title="港澳台国际",无线新闻台
 https://cdn6.163189.xyz/163189/wxxw
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB1.png" tvg-name="翡翠台" group-title="港澳台国际",翡翠台
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ext886-prog/tvlogo/refs/heads/main/tvb.png" tvg-name="翡翠台" group-title="港澳台国际",翡翠台
 https://mytv.cdn.loc.cc/o12.php?id=fct
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ext886-prog/tvlogo/refs/heads/main/tvbplus.png" tvg-name="TVB Plus" group-title="港澳台国际",TVB Plus
 https://o11.163189.xyz/stream/tvb/tvbp/
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB6.png" tvg-name="TVB星河" group-title="港澳台国际",TVB星河
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ext886-prog/tvlogo/refs/heads/main/tvbxh.png" tvg-name="TVB星河" group-title="港澳台国际",TVB星河
 https://cdn6.163189.xyz/163189/tvbxh
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB15.png" tvg-name="TVB功夫台" group-title="港澳台国际",TVB功夫台
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ext886-prog/tvlogo/refs/heads/main/tvbgft.png" tvg-name="TVB功夫台" group-title="港澳台国际",TVB功夫台
 https://cdn6.163189.xyz/163189/yzwx
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ext886-prog/tvlogo/refs/heads/main/tvbqxjdt.png" tvg-name="千禧经典台" group-title="港澳台国际",千禧经典台
 http://o11.163189.xyz/stream/live/tvbc/
