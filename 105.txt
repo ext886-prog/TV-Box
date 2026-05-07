@@ -51,7 +51,7 @@ https://o11.163189.xyz/stream/tvb/tvbp/
 https://cdn6.163189.xyz/163189/tvbxh
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB15.png" tvg-name="TVB功夫台" group-title="港澳台国际",TVB功夫台
 https://cdn6.163189.xyz/163189/yzwx
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ext886-prog/tvlogo/refs/heads/main/tvbqxjd.png" tvg-name="千禧经典台" group-title="港澳台国际",千禧经典台
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ext886-prog/tvlogo/refs/heads/main/tvbqxjdt.png" tvg-name="千禧经典台" group-title="港澳台国际",千禧经典台
 http://o11.163189.xyz/stream/live/tvbc/
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/RTHK31.png" tvg-name="RTHK31" group-title="港澳台国际",RTHK31
 http://cdn.163189.xyz/163189/rthk31
