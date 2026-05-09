@@ -25,11 +25,11 @@ http://192.168.154.1:9999/rtp/239.77.0.179:5146
 http://192.168.154.1:9999/rtp/239.253.43.71:5146
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangzhou2.png" tvg-name="广州新闻" group-title="广东",广州新闻
 http://192.168.154.1:9999/rtp/239.253.43.72:5146
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ext886-prog/tvlogo/refs/heads/main/FSZH.jpg" tvg-name="佛山综合" group-title="广东",佛山综合
+#EXTINF:-1 tvg-logo="https://od.lk/s/NDlfMzY3NTc5MDdf/FSGG.jpg" tvg-name="佛山综合" group-title="广东",佛山综合
 http://192.168.154.1:9999/rtp/239.253.43.57:5146
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ext886-prog/tvlogo/refs/heads/main/FSNH.jpg" tvg-name="佛山南海" group-title="广东",佛山南海
+#EXTINF:-1 tvg-logo="https://od.lk/s/NDlfMzY3NTc5MDhf/FSNH.jpg" tvg-name="佛山南海" group-title="广东",佛山南海
 http://192.168.154.1:9999/rtp/239.253.43.54:5146
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ext886-prog/tvlogo/refs/heads/main/FSSD.jpg" tvg-name="佛山顺德" group-title="广东",佛山顺德
+#EXTINF:-1 tvg-logo="https://od.lk/s/NDlfMzY3NTc5MTBf/FSSD.jpg" tvg-name="佛山顺德" group-title="广东",佛山顺德
 http://192.168.154.1:9999/rtp/239.253.43.55:5146
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix2.png" tvg-name="凤凰卫视资讯台" group-title="港澳台国际",凤凰卫视资讯台
 https://cdn6.163189.xyz/163189/fhzx
