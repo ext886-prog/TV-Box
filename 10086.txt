@@ -44,7 +44,7 @@ https://cdn.163189.xyz/163189/hoy78
 #EXTINF:-1 tvg-logo="https://od.lk/s/NDlfNDAzMzQ4NTNf/tvbnews.png" tvg-name="无线新闻台" group-title="港澳台国际",无线新闻台
 https://cdn6.163189.xyz/163189/wxxw
 #EXTINF:-1 tvg-logo="https://od.lk/s/NDlfNDAzMzQ4NTFf/tvb.png" tvg-name="翡翠台" group-title="港澳台国际",翡翠台
-https://mytv.cdn.loc.cc/o12.php?id=fct
+http://o11.163189.xyz/stream/tvb/fct/
 #EXTINF:-1 tvg-logo="https://od.lk/s/NDlfNDAzMzQ4NTRf/tvbplus.png" tvg-name="TVB Plus" group-title="港澳台国际",TVB Plus
 https://o11.163189.xyz/stream/tvb/tvbp/
 #EXTINF:-1 tvg-logo="https://od.lk/s/NDlfNDAzMzQ4NTZf/tvbxh.png" tvg-name="TVB星河" group-title="港澳台国际",TVB星河
