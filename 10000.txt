@@ -40,11 +40,11 @@ http://r.jdshipin.com/yDoTN
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/now1.png" tvg-name="Now新闻台" group-title="港澳台国际",Now新闻台
 https://cdn.123.rr.kg/163189/now
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/icable1.png" tvg-name="HOY78" group-title="港澳台国际",HOY78
-https://hoytv-live-stream.hoy.tv/ch78/index.m3u8
+http://hoytv-live-stream.hoy.tv/ch78/index.m3u8
 #EXTINF:-1 tvg-logo="https://od.lk/s/NDlfNDAzMzQ4NTNf/tvbnews.png" tvg-name="无线新闻台" group-title="港澳台国际",无线新闻台
 http://r.jdshipin.com/CkuBd
 #EXTINF:-1 tvg-logo="https://od.lk/s/NDlfNDAzMzQ4NTFf/tvb.png" tvg-name="翡翠台" group-title="港澳台国际",翡翠台
-http://r.jdshipin.com/qClQf
+http://r.jdshipin.com/qrfbg
 #EXTINF:-1 tvg-logo="https://od.lk/s/NDlfNDAzMzQ4NTRf/tvbplus.png" tvg-name="TVB Plus" group-title="港澳台国际",TVB Plus
 http://r.jdshipin.com/Nr5jq
 #EXTINF:-1 tvg-logo="https://od.lk/s/NDlfNDAzMzQ4NTZf/tvbxh.png" tvg-name="TVB星河" group-title="港澳台国际",TVB星河
