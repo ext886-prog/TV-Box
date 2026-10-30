@@ -38,7 +38,7 @@ http://r.jdshipin.com/cCCzW
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix3.png" tvg-name="凤凰卫视香港台" group-title="港澳台国际",凤凰卫视香港台
 http://r.jdshipin.com/yDoTN
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/now1.png" tvg-name="Now新闻台" group-title="港澳台国际",Now新闻台
-https://cdn.123.rr.kg/163189/now
+https://cdn.qd.je/163189.php?id=now
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/icable1.png" tvg-name="HOY78" group-title="港澳台国际",HOY78
 https://fast.hidns.vip/163189/hoy78
 #EXTINF:-1 tvg-logo="https://od.lk/s/NDlfNDAzMzQ4NTNf/tvbnews.png" tvg-name="无线新闻台" group-title="港澳台国际",无线新闻台
