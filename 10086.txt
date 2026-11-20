@@ -42,7 +42,7 @@ https://cdn.qd.je/163189.php?id=now
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/icable1.png" tvg-name="HOY78" group-title="港澳台国际",HOY78
 https://fast.hidns.vip/163189/hoy78
 #EXTINF:-1 tvg-logo="https://od.lk/s/NDlfNDAzMzQ4NTNf/tvbnews.png" tvg-name="无线新闻台" group-title="港澳台国际",无线新闻台
-https://h5cdn3.kylintv.tv/live/tvbnews_iphone.m3u8
+http://beishan008.asuscomm.com:8890/bysid/83.m3u8
 #EXTINF:-1 tvg-logo="https://od.lk/s/NDlfNDAzMzQ4NTFf/tvb.png" tvg-name="翡翠台" group-title="港澳台国际",翡翠台
 http://r.jdshipin.com/GeWKr
 #EXTINF:-1 tvg-logo="https://od.lk/s/NDlfNDAzMzQ4NTRf/tvbplus.png" tvg-name="TVB Plus" group-title="港澳台国际",TVB Plus
@@ -51,8 +51,6 @@ http://r.jdshipin.com/Nr5jq
 http://r.jdshipin.com/Voac4
 #EXTINF:-1 tvg-logo="https://od.lk/s/NDlfNDAzMzQ4NTJf/tvbgft.png" tvg-name="TVB功夫台" group-title="港澳台国际",TVB功夫台
 http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB1.png" tvg-name="TVB Jade" group-title="港澳台国际",TVB Jade
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/RTHK31.png" tvg-name="RTHK31" group-title="港澳台国际",RTHK31
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/RTHK32.png" tvg-name="RTHK32" group-title="港澳台国际",RTHK32
