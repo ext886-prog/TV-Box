@@ -55,6 +55,8 @@ http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/RTHK32.png" tvg-name="RTHK32" group-title="港澳台国际",RTHK32
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
+#EXTINF:-1 tvg-name="Astro AOD" tvg-logo="https://raw.githubusercontent.com/ext886-prog/tvlogo/refs/heads/main/astroaod.png" group-title="其他频道",Astro AOD
+http://php.jdshipin.com/TVOD/iptv.php?id=aod
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ext886-prog/tvlogo/refs/heads/main/gqdst.jpg" tvg-name="环球电视台" group-title="港澳台国际",环球电视台
 http://utv1.hqtvzb.com:9999/hls/world.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV1.png" tvg-name="CCTV1" group-title="央视",CCTV1
