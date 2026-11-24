@@ -42,7 +42,7 @@ https://cdn.qd.je/163189.php?id=now
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/icable1.png" tvg-name="HOY78" group-title="港澳台国际",HOY78
 https://fast.hidns.vip/163189/hoy78
 #EXTINF:-1 tvg-logo="https://od.lk/s/NDlfNDAzMzQ4NTNf/tvbnews.png" tvg-name="无线新闻台" group-title="港澳台国际",无线新闻台
-https://h5cdn3.kylintv.tv/live/tvbnews_iphone.m3u8
+https://cdn6.cc.cd/163189/wxxwt
 #EXTINF:-1 tvg-logo="https://od.lk/s/NDlfNDAzMzQ4NTFf/tvb.png" tvg-name="翡翠台" group-title="港澳台国际",翡翠台
 http://r.jdshipin.com/GeWKr
 #EXTINF:-1 tvg-logo="https://od.lk/s/NDlfNDAzMzQ4NTRf/tvbplus.png" tvg-name="TVB Plus" group-title="港澳台国际",TVB Plus
